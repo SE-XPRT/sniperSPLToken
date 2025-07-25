@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "description": "",
-  "main": "test.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node test.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "@solana/spl-token": "^0.4.13",
